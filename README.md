@@ -1,5 +1,6 @@
 # Binarized-Neural-Network
-This project is devoted to creating a one-layer binarized neural network, and exploring the mathematical logic theory begind it
+This project is devoted to creating a one-layer binarized neural network, and exploring the mathematical logic theory behind it
+
 ![Слайд2](https://user-images.githubusercontent.com/55174155/180065949-23f8bf70-e8b2-4422-8b94-f63080777777.JPG)
 ![Слайд4](https://user-images.githubusercontent.com/55174155/180066014-f28880e3-7619-448a-9727-55d39d6aa096.JPG)
 ![Слайд5](https://user-images.githubusercontent.com/55174155/180066023-059205be-1c51-4b77-94fd-07ff9cf0e5ca.JPG)
